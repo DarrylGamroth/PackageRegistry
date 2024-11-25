@@ -4,3 +4,4 @@ repo = "git@github.com:DarrylGamroth/PackageRegistry.git"
 description = "Darryl Gamroth's Julia Package Repository"
 
 [packages]
+b850ffb1-6704-484e-996b-4710e2f097f0 = { name = "Aeron", path = "A/Aeron" }

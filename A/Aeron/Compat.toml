@@ -1,0 +1,7 @@
+[0]
+Aeron_jll = "1.46.7 - 1"
+CEnum = "0.5"
+Clang = "0.18.3 - 0.18"
+EnumX = "1.0.4 - 1"
+StringViews = "1.3.4 - 1"
+UnsafeArrays = "1.0.6 - 1"
