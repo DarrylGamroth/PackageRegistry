@@ -5,6 +5,7 @@ description = "Darryl Gamroth's Julia Package Repository"
 
 [packages]
 429efccb-d15f-50bf-9ef5-16fe0de80da4 = { name = "AlpaoSDK_jll", path = "jll/A/AlpaoSDK_jll" }
+8e6e8f70-f28c-415d-b881-3282d03f8261 = { name = "Hsm", path = "H/Hsm" }
 b850ffb1-6704-484e-996b-4710e2f097f0 = { name = "Aeron", path = "A/Aeron" }
 bf3b237f-d17d-557f-97f1-1eb158fbe9f2 = { name = "AndorSDK2_jll", path = "jll/A/AndorSDK2_jll" }
 d964258c-d1ad-568a-aca9-3ef511f5bffd = { name = "Aeron_jll", path = "jll/A/Aeron_jll" }
