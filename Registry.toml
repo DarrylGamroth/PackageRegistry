@@ -4,5 +4,6 @@ repo = "git@github.com:DarrylGamroth/PackageRegistry.git"
 description = "Darryl Gamroth's Julia Package Repository"
 
 [packages]
+429efccb-d15f-50bf-9ef5-16fe0de80da4 = { name = "AlpaoSDK_jll", path = "jll/A/AlpaoSDK_jll" }
 b850ffb1-6704-484e-996b-4710e2f097f0 = { name = "Aeron", path = "A/Aeron" }
 d964258c-d1ad-568a-aca9-3ef511f5bffd = { name = "Aeron_jll", path = "jll/A/Aeron_jll" }
