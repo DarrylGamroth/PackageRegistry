@@ -10,3 +10,8 @@ StringViews = "1.3.4 - 1"
 ["0.1.1 - 0"]
 UnsafeArrays = "1.0.6 - 1"
 ValSplit = "0.1.1 - 0.1"
+
+["0.1.2 - 0"]
+MappedArrays = "0.4.2 - 0.4"
+StaticArrays = "1.9.8 - 1"
+StringViews = "1.3.4 - 1"
