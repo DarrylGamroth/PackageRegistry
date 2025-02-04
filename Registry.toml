@@ -5,6 +5,7 @@ description = "Darryl Gamroth's Julia Package Repository"
 
 [packages]
 429efccb-d15f-50bf-9ef5-16fe0de80da4 = { name = "AlpaoSDK_jll", path = "jll/A/AlpaoSDK_jll" }
+8c1bab52-a7d1-42b0-bb60-b0a7d7edcd1b = { name = "SpidersFragmentFilters", path = "S/SpidersFragmentFilters" }
 8e6e8f70-f28c-415d-b881-3282d03f8261 = { name = "Hsm", path = "H/Hsm" }
 9d30338e-3560-4e91-a403-22803ac6b660 = { name = "SpidersMessageCodecs", path = "S/SpidersMessageCodecs" }
 b850ffb1-6704-484e-996b-4710e2f097f0 = { name = "Aeron", path = "A/Aeron" }
