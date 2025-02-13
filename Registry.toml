@@ -12,3 +12,4 @@ description = "Darryl Gamroth's Julia Package Repository"
 b850ffb1-6704-484e-996b-4710e2f097f0 = { name = "Aeron", path = "A/Aeron" }
 bf3b237f-d17d-557f-97f1-1eb158fbe9f2 = { name = "AndorSDK2_jll", path = "jll/A/AndorSDK2_jll" }
 f9ebe2b0-2178-47c6-b9d1-20f9bee126a8 = { name = "SnowflakeId", path = "S/SnowflakeId" }
+fde616d6-7f4b-4e2f-8ecf-0dc858f51131 = { name = "AndorSDK2CameraService", path = "A/AndorSDK2CameraService" }
