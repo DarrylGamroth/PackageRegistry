@@ -1,0 +1,10 @@
+[0]
+Aeron = "0.16.2 - 0.16"
+ArgParse = "1.2.0 - 1"
+Downloads = "1.6.0 - 1"
+EnumX = "1.0.4 - 1"
+FITSIO = "0.17.4 - 0.17"
+LibUV_jll = "2.0.1 - 2"
+SnowflakeId = "0.1"
+SpidersMessageCodecs = "0.4.2 - 0.4"
+URIs = "1.5.1 - 1"

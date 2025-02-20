@@ -1,0 +1,10 @@
+[0]
+Aeron = "b850ffb1-6704-484e-996b-4710e2f097f0"
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+EnumX = "4e289a0a-7415-4d19-859d-a7e5c4648b56"
+FITSIO = "525bcba6-941b-5504-bd06-fd0dc1a4d2eb"
+LibUV_jll = "183b4373-6708-53ba-ad28-60e28bb38547"
+SnowflakeId = "f9ebe2b0-2178-47c6-b9d1-20f9bee126a8"
+SpidersMessageCodecs = "9d30338e-3560-4e91-a403-22803ac6b660"
+URIs = "5c2747f8-b7ea-4ff2-ba2e-563bfd36b1d4"
