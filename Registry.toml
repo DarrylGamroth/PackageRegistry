@@ -6,6 +6,7 @@ description = "Darryl Gamroth's Julia Package Repository"
 [packages]
 0b0e1d30-6475-4286-a107-4b7aba88ddd2 = { name = "SymbolConverters", path = "S/SymbolConverters" }
 429efccb-d15f-50bf-9ef5-16fe0de80da4 = { name = "AlpaoSDK_jll", path = "jll/A/AlpaoSDK_jll" }
+6b5ade5d-6e95-4584-b343-73eec2e8782b = { name = "Clocks", path = "C/Clocks" }
 85e1e58a-8f06-47dc-8621-d49759448faa = { name = "AndorSDK2", path = "A/AndorSDK2" }
 8c1bab52-a7d1-42b0-bb60-b0a7d7edcd1b = { name = "SpidersFragmentFilters", path = "S/SpidersFragmentFilters" }
 8e6e8f70-f28c-415d-b881-3282d03f8261 = { name = "Hsm", path = "H/Hsm" }
