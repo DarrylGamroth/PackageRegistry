@@ -4,6 +4,7 @@ repo = "git@github.com:DarrylGamroth/PackageRegistry.git"
 description = "Darryl Gamroth's Julia Package Repository"
 
 [packages]
+0974bddb-ffe7-4d59-96d4-d2a78da66510 = { name = "Dithering", path = "D/Dithering" }
 0b0e1d30-6475-4286-a107-4b7aba88ddd2 = { name = "SymbolConverters", path = "S/SymbolConverters" }
 6b5ade5d-6e95-4584-b343-73eec2e8782b = { name = "Clocks", path = "C/Clocks" }
 85e1e58a-8f06-47dc-8621-d49759448faa = { name = "AndorSDK2", path = "A/AndorSDK2" }
