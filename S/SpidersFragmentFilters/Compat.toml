@@ -1,8 +1,13 @@
 [0]
 Automa = "1.1.0 - 1"
 ConcurrentUtilities = "2.4.3 - 2"
-SpidersMessageCodecs = "0.4.1 - 0.4"
 UUIDs = "1.10.0 - 1"
+
+["0 - 0.1"]
+SpidersMessageCodecs = "0.4.1 - 0.4"
 
 ["0 - 0.1.1"]
 Aeron = "0.16"
+
+["0.2 - 0"]
+SpidersMessageCodecs = "0.5"
