@@ -14,3 +14,6 @@ SpidersMessageCodecs = "0.5"
 
 ["0.3 - 0"]
 SpidersMessageCodecs = "0.6"
+
+["0.3.1 - 0"]
+Clocks = "0.1.4 - 0.1"
