@@ -16,5 +16,8 @@ MappedArrays = "dbb5928d-eab1-5f90-85c2-b9b0edb7c900"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 StringViews = "354b36f9-a18e-4713-926e-db85100087ba"
 
-["0.5 - 0"]
+["0.10 - 0"]
+StaticStrings = "4db0a0c5-418a-4e1d-8806-cb305fe13294"
+
+["0.5 - 0.6"]
 SymbolConverters = "0b0e1d30-6475-4286-a107-4b7aba88ddd2"
