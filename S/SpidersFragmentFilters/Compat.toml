@@ -1,19 +1,19 @@
-[0]
-Automa = "1.1.0 - 1"
-ConcurrentUtilities = "2.4.3 - 2"
-UUIDs = "1.10.0 - 1"
-
 ["0 - 0.1"]
 SpidersMessageCodecs = "0.4.1 - 0.4"
 
 ["0 - 0.1.1"]
 Aeron = "0.16"
 
+["0 - 0.3"]
+Automa = "1.1.0 - 1"
+ConcurrentUtilities = "2.4.3 - 2"
+UUIDs = "1.10.0 - 1"
+
 ["0.2"]
 SpidersMessageCodecs = "0.5"
 
-["0.3 - 0"]
+["0.3"]
 SpidersMessageCodecs = "0.6"
 
-["0.3.1 - 0"]
+["0.3.1 - 0.3"]
 Clocks = "0.1.4 - 0.1"
