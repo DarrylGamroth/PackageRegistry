@@ -4,6 +4,7 @@ repo = "git@github.com:DarrylGamroth/PackageRegistry.git"
 description = "Darryl Gamroth's Julia Package Repository"
 
 [packages]
+0625e100-946b-11ec-09cd-6328dd093154 = { name = "ValSplit", path = "V/ValSplit" }
 0974bddb-ffe7-4d59-96d4-d2a78da66510 = { name = "Dithering", path = "D/Dithering" }
 0b0e1d30-6475-4286-a107-4b7aba88ddd2 = { name = "SymbolConverters", path = "S/SymbolConverters" }
 5c25fbc6-c823-4e8d-82ee-a726f35d2972 = { name = "ManagedProperties", path = "M/ManagedProperties" }
