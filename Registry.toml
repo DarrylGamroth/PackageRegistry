@@ -6,6 +6,7 @@ description = "Darryl Gamroth's Julia Package Repository"
 [packages]
 0625e100-946b-11ec-09cd-6328dd093154 = { name = "ValSplit", path = "V/ValSplit" }
 0974bddb-ffe7-4d59-96d4-d2a78da66510 = { name = "Dithering", path = "D/Dithering" }
+5c25fbc6-c823-4e8d-82ee-a726f35d2972 = { name = "StaticKV", path = "S/StaticKV" }
 6b5ade5d-6e95-4584-b343-73eec2e8782b = { name = "Clocks", path = "C/Clocks" }
 85e1e58a-8f06-47dc-8621-d49759448faa = { name = "AndorSDK2", path = "A/AndorSDK2" }
 8c1bab52-a7d1-42b0-bb60-b0a7d7edcd1b = { name = "SpidersFragmentFilters", path = "S/SpidersFragmentFilters" }
