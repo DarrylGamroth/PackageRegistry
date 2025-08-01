@@ -1,6 +1,6 @@
 name = "DarrylGamrothRegistry"
 uuid = "f1b7c622-974f-40ab-8efd-04e6e7c951d8"
-repo = "git@github.com:DarrylGamroth/PackageRegistry.git"
+repo = "https://github.com/DarrylGamroth/PackageRegistry.git"
 description = "Darryl Gamroth's Julia Package Repository"
 
 [packages]
