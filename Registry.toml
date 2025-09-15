@@ -20,5 +20,6 @@ b850ffb1-6704-484e-996b-4710e2f097f0 = { name = "Aeron", path = "A/Aeron" }
 bf3b237f-d17d-557f-97f1-1eb158fbe9f2 = { name = "AndorSDK2_jll", path = "jll/A/AndorSDK2_jll" }
 c8c55f4a-6010-44cd-a616-9e5fc16aded6 = { name = "ASDK", path = "A/ASDK" }
 e50cd564-cd50-4a17-94cb-358ff85669a4 = { name = "SpidersSendEvent", path = "S/SpidersSendEvent" }
+f7939a7f-2bcc-4096-952b-c44031b5533b = { name = "Agent", path = "A/Agent" }
 f9ebe2b0-2178-47c6-b9d1-20f9bee126a8 = { name = "SnowflakeId", path = "S/SnowflakeId" }
 fde616d6-7f4b-4e2f-8ecf-0dc858f51131 = { name = "AndorSDK2CameraService", path = "A/AndorSDK2CameraService" }
