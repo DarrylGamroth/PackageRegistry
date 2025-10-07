@@ -11,3 +11,6 @@ SpidersMessageCodecs = "9d30338e-3560-4e91-a403-22803ac6b660"
 StaticKV = "5c25fbc6-c823-4e8d-82ee-a726f35d2972"
 UnsafeArrays = "c4a57d5a-5b31-53a6-b365-19f8c011fbd6"
 WrappedUnions = "325db55a-9c6c-5b90-b1a2-ec87e7a38c44"
+
+["0.1.1 - 0"]
+FunctionWrappers = "069b7b12-0de2-55c6-9aab-29f3d0a68a2e"

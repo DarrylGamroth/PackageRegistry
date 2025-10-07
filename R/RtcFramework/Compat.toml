@@ -11,3 +11,6 @@ SpidersMessageCodecs = "0.12"
 StaticKV = "0.6"
 UnsafeArrays = "1"
 WrappedUnions = "0.3"
+
+["0.1.1 - 0"]
+FunctionWrappers = "1"
