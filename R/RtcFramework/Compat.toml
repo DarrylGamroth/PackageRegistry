@@ -8,9 +8,14 @@ Logging = "1"
 SnowflakeId = "0.1"
 SpidersFragmentFilters = "0.4"
 SpidersMessageCodecs = "0.12"
-StaticKV = "0.6"
 UnsafeArrays = "1"
 WrappedUnions = "0.3"
 
+["0 - 0.1.6"]
+StaticKV = "0.6"
+
 ["0.1.1 - 0"]
 FunctionWrappers = "1"
+
+["0.1.7 - 0"]
+StaticKV = "0.7"
