@@ -5,3 +5,6 @@ UnsafeArrays = "c4a57d5a-5b31-53a6-b365-19f8c011fbd6"
 
 ["0 - 0.1.12"]
 StringViews = "354b36f9-a18e-4713-926e-db85100087ba"
+
+["0.1.15 - 0"]
+StringViews = "354b36f9-a18e-4713-926e-db85100087ba"
