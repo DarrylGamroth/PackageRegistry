@@ -1,3 +1,3 @@
 name = "Aravis"
 uuid = "ee304b73-0f67-4038-8e67-62078cd066f9"
-repo = "ssh://git@github.com/DarrylGamroth/Aravis.jl.git"
+repo = "https://github.com/DarrylGamroth/Aravis.jl.git"
