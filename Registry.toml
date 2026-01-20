@@ -19,6 +19,7 @@ ae4ab49b-60bf-4949-b8fd-fb49b1a0d067 = { name = "Hsm", path = "H/Hsm" }
 aebde43d-366d-4353-b020-04442e269197 = { name = "TimerWheels", path = "T/TimerWheels" }
 b5db94cf-04c1-4db7-9b05-47f582871ea8 = { name = "SBE", path = "S/SBE" }
 b850ffb1-6704-484e-996b-4710e2f097f0 = { name = "Aeron", path = "A/Aeron" }
+baae71d1-6ca0-4829-a681-72d64208225e = { name = "Liburing", path = "L/Liburing" }
 bf3b237f-d17d-557f-97f1-1eb158fbe9f2 = { name = "AndorSDK2_jll", path = "jll/A/AndorSDK2_jll" }
 c8c55f4a-6010-44cd-a616-9e5fc16aded6 = { name = "ASDK", path = "A/ASDK" }
 e50cd564-cd50-4a17-94cb-358ff85669a4 = { name = "SpidersSendEvent", path = "S/SpidersSendEvent" }
