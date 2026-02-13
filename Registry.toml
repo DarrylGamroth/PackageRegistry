@@ -8,6 +8,7 @@ description = "Darryl Gamroth's Julia Package Repository"
 0974bddb-ffe7-4d59-96d4-d2a78da66510 = { name = "Dithering", path = "D/Dithering" }
 0b0e1d30-6475-4286-a107-4b7aba88ddd2 = { name = "SymbolConverters", path = "S/SymbolConverters" }
 1e3e096f-6c67-414b-b19e-57dba9f71c96 = { name = "BGAPI2", path = "B/BGAPI2" }
+3b6e4f44-8bda-4d7f-8e5f-45b2e56ac1c3 = { name = "EGrabber", path = "E/EGrabber" }
 429efccb-d15f-50bf-9ef5-16fe0de80da4 = { name = "AlpaoSDK_jll", path = "jll/A/AlpaoSDK_jll" }
 5c25fbc6-c823-4e8d-82ee-a726f35d2972 = { name = "StaticKV", path = "S/StaticKV" }
 6b5ade5d-6e95-4584-b343-73eec2e8782b = { name = "Clocks", path = "C/Clocks" }
