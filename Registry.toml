@@ -25,6 +25,7 @@ baae71d1-6ca0-4829-a681-72d64208225e = { name = "Liburing", path = "L/Liburing" 
 bf3b237f-d17d-557f-97f1-1eb158fbe9f2 = { name = "AndorSDK2_jll", path = "jll/A/AndorSDK2_jll" }
 c0bada20-47fe-5829-a5d2-36f16f9ecd92 = { name = "Iceoryx2_jll", path = "jll/I/Iceoryx2_jll" }
 c8c55f4a-6010-44cd-a616-9e5fc16aded6 = { name = "ASDK", path = "A/ASDK" }
+d0b8ac25-3072-4075-acf5-4a93ba78f71f = { name = "HdrHistogram", path = "H/HdrHistogram" }
 e50cd564-cd50-4a17-94cb-358ff85669a4 = { name = "SpidersSendEvent", path = "S/SpidersSendEvent" }
 ee304b73-0f67-4038-8e67-62078cd066f9 = { name = "Aravis", path = "A/Aravis" }
 f7939a7f-2bcc-4096-952b-c44031b5533b = { name = "Agent", path = "A/Agent" }
