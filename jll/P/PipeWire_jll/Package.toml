@@ -1,0 +1,3 @@
+name = "PipeWire_jll"
+uuid = "d49d6a9a-8fe4-5035-9ec1-b8a5ddb3e747"
+repo = "https://github.com/DarrylGamroth/PipeWire_jll.jl.git"
