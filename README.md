@@ -6,7 +6,7 @@ A package registry for Julia packages developed under this GitHub org.
 To activate the registry, do
 ```
 using Pkg
-pkg"registry add git@github.com:DarrylGamroth/PackageRegistry.git"
+pkg"registry add https://github.com/DarrylGamroth/PackageRegistry.git"
 ```
 This only needs to be done once per Julia installation.
 
