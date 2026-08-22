@@ -1,0 +1,5 @@
+[0]
+EGrabber = "0.2.3-0.2"
+PipeWireAO = "0.2.1-0.2"
+UnsafeArrays = "1"
+julia = "1.12.0-1"

@@ -10,6 +10,7 @@ description = "Darryl Gamroth's Julia Package Repository"
 0c6a28b8-15c3-477b-95f5-c0ec932e9c4f = { name = "PipeWire", path = "P/PipeWire" }
 1e3e096f-6c67-414b-b19e-57dba9f71c96 = { name = "BGAPI2", path = "B/BGAPI2" }
 3b6e4f44-8bda-4d7f-8e5f-45b2e56ac1c3 = { name = "EGrabber", path = "E/EGrabber" }
+40f72e47-297d-47b9-bf31-86db5e868eb0 = { name = "EGrabberPipeWireAO", path = "E/EGrabberPipeWireAO" }
 429efccb-d15f-50bf-9ef5-16fe0de80da4 = { name = "AlpaoSDK_jll", path = "jll/A/AlpaoSDK_jll" }
 5c25fbc6-c823-4e8d-82ee-a726f35d2972 = { name = "StaticKV", path = "S/StaticKV" }
 5d815c25-fdf3-4508-8205-db8be38ea5d0 = { name = "PipeWireAO", path = "P/PipeWireAO" }
