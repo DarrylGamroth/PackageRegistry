@@ -1,2 +1,5 @@
 [0]
 PipeWireAO_jll = "cde84cf6-9a21-5ce0-b5e3-1526e778c30b"
+
+["0.2-0"]
+UnsafeArrays = "c4a57d5a-5b31-53a6-b365-19f8c011fbd6"
