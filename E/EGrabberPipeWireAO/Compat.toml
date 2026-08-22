@@ -7,5 +7,10 @@ EGrabber = "0.2.3-0.2"
 PipeWireAO = "0.2.1-0.2"
 
 ["0.1.1-0"]
-EGrabber = "0.3"
 PipeWireAO = "0.3"
+
+["0.1.1-0.1"]
+EGrabber = "0.3"
+
+["0.2-0"]
+EGrabber = "0.3.1-0.3"
