@@ -1,0 +1,3 @@
+name = "AdaptiveOpticsCalibration"
+uuid = "3c8b5851-926e-4ebb-af30-f8544b98d45f"
+repo = "git@github.com:DarrylGamroth/AdaptiveOpticsCalibration.jl.git"
