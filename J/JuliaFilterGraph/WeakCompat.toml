@@ -1,0 +1,4 @@
+[0]
+AMDGPU = "2"
+CUDA = "6"
+KernelAbstractions = "0.9"
