@@ -1,0 +1,4 @@
+name = "FilterGraphPipeWire"
+uuid = "0366a544-13dd-48a3-a3d6-bd2ba4547294"
+repo = "git@github.com:DarrylGamroth/JuliaFilterGraph.jl.git"
+subdir = "julia/FilterGraphPipeWire"

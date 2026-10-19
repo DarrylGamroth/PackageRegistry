@@ -5,6 +5,7 @@ description = "Darryl Gamroth's Julia Package Repository"
 
 [packages]
 002fb5eb-ad68-44a0-adbe-b299bfc2febc = { name = "AdaptiveOpticsSim", path = "A/AdaptiveOpticsSim" }
+0366a544-13dd-48a3-a3d6-bd2ba4547294 = { name = "FilterGraphPipeWire", path = "F/FilterGraphPipeWire" }
 0686a737-3bdd-44da-9bf7-6692cf630078 = { name = "Proper", path = "P/Proper" }
 0974bddb-ffe7-4d59-96d4-d2a78da66510 = { name = "Dithering", path = "D/Dithering" }
 0b0e1d30-6475-4286-a107-4b7aba88ddd2 = { name = "SymbolConverters", path = "S/SymbolConverters" }

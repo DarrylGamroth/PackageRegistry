@@ -1,0 +1,6 @@
+[0]
+FilterGraphAlgorithms = "0.7"
+JuliaFilterGraph = "0.4"
+PipeWireAO = "0.6.18-0.6"
+UnsafeArrays = "1"
+julia = "1.13.0-1"
