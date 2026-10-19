@@ -1,0 +1,10 @@
+[0]
+AMDGPU = "2.7.0-2"
+AcceleratedKernels = "0.4"
+AppleAccelerate = "0.7"
+CSV = "0.10"
+CUDA = "6.4.2-6"
+Dagger = "0.19"
+JSON3 = "1"
+Metal = "1"
+Tables = "1"
