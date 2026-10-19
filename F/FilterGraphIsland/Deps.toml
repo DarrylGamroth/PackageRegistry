@@ -1,0 +1,7 @@
+[0]
+FilterGraphAlgorithms = "8914fa96-dfe6-4d3c-aced-40e6da1f6420"
+FilterGraphPipeWire = "0366a544-13dd-48a3-a3d6-bd2ba4547294"
+JuliaFilterGraph = "febeb008-6177-4a1b-bafd-f7a6a3435ad8"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+PipeWireAO = "5d815c25-fdf3-4508-8205-db8be38ea5d0"
+PipeWireAO_jll = "cde84cf6-9a21-5ce0-b5e3-1526e778c30b"
