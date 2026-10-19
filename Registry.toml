@@ -12,6 +12,7 @@ description = "Darryl Gamroth's Julia Package Repository"
 0c6a28b8-15c3-477b-95f5-c0ec932e9c4f = { name = "PipeWire", path = "P/PipeWire" }
 1e3e096f-6c67-414b-b19e-57dba9f71c96 = { name = "BGAPI2", path = "B/BGAPI2" }
 245ec3f5-bd83-45fe-abab-efac21027a22 = { name = "FilterGraphIsland", path = "F/FilterGraphIsland" }
+355e2bce-7765-4934-ac1c-873e1c98ec3d = { name = "AdaptiveOpticsSimPipeWireHIL", path = "A/AdaptiveOpticsSimPipeWireHIL" }
 3b6e4f44-8bda-4d7f-8e5f-45b2e56ac1c3 = { name = "EGrabber", path = "E/EGrabber" }
 3c8b5851-926e-4ebb-af30-f8544b98d45f = { name = "AdaptiveOpticsCalibration", path = "A/AdaptiveOpticsCalibration" }
 40f72e47-297d-47b9-bf31-86db5e868eb0 = { name = "EGrabberPipeWireAO", path = "E/EGrabberPipeWireAO" }
