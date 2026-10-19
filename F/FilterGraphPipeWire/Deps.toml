@@ -1,0 +1,5 @@
+[0]
+FilterGraphAlgorithms = "8914fa96-dfe6-4d3c-aced-40e6da1f6420"
+JuliaFilterGraph = "febeb008-6177-4a1b-bafd-f7a6a3435ad8"
+PipeWireAO = "5d815c25-fdf3-4508-8205-db8be38ea5d0"
+UnsafeArrays = "c4a57d5a-5b31-53a6-b365-19f8c011fbd6"

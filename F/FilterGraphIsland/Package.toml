@@ -1,0 +1,4 @@
+name = "FilterGraphIsland"
+uuid = "245ec3f5-bd83-45fe-abab-efac21027a22"
+repo = "git@github.com:DarrylGamroth/JuliaFilterGraph.jl.git"
+subdir = "julia/FilterGraphIsland"

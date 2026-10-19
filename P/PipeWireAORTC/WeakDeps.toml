@@ -1,0 +1,7 @@
+["0.1.2-0"]
+AdaptiveOpticsSim = "002fb5eb-ad68-44a0-adbe-b299bfc2febc"
+AdaptiveOpticsSimPipeWireHIL = "355e2bce-7765-4934-ac1c-873e1c98ec3d"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+FilterGraphIsland = "245ec3f5-bd83-45fe-abab-efac21027a22"
+FilterGraphPipeWire = "0366a544-13dd-48a3-a3d6-bd2ba4547294"
+JuliaFilterGraph = "febeb008-6177-4a1b-bafd-f7a6a3435ad8"
