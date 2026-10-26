@@ -17,6 +17,11 @@ FilterGraphAlgorithms = "0.2-0.4"
 FilterGraphAlgorithms = "0.2-0.5"
 
 ["0.4-0"]
-FilterGraphAlgorithms = "0.7"
 ThreadPinning = "1"
 julia = "1.13.0-1"
+
+["0.4.0"]
+FilterGraphAlgorithms = "0.7"
+
+["0.4.2-0"]
+FilterGraphAlgorithms = "0.8"
