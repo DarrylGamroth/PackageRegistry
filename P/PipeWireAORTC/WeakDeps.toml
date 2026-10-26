@@ -5,3 +5,8 @@ CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 FilterGraphIsland = "245ec3f5-bd83-45fe-abab-efac21027a22"
 FilterGraphPipeWire = "0366a544-13dd-48a3-a3d6-bd2ba4547294"
 JuliaFilterGraph = "febeb008-6177-4a1b-bafd-f7a6a3435ad8"
+
+["0.2-0"]
+AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"
+AdaptiveOpticsCalibration = "3c8b5851-926e-4ebb-af30-f8544b98d45f"
+FilterGraphAlgorithms = "8914fa96-dfe6-4d3c-aced-40e6da1f6420"
