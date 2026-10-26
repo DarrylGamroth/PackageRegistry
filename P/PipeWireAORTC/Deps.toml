@@ -18,3 +18,6 @@ JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
+
+["0.2.12-0"]
+Hsm = "ae4ab49b-60bf-4949-b8fd-fb49b1a0d067"

@@ -20,3 +20,6 @@ LinearAlgebra = "1"
 PipeWireAO = "0.6.18-0.6"
 SQLite = "1.9.0-1"
 YAML = "0.4.17-0.4"
+
+["0.2.12-0"]
+Hsm = "0.3.2-0.3"
