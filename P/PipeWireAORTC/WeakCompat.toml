@@ -37,9 +37,14 @@ FilterGraphPipeWire = "0.1.9-0.1"
 FilterGraphAlgorithms = "0.8.1-0.8"
 
 ["0.2.18-0"]
-AdaptiveOpticsSimPipeWireHIL = "0.2.6-0.2"
 FilterGraphIsland = "0.1.4-0.1"
+
+["0.2.18-0.2.22"]
+AdaptiveOpticsSimPipeWireHIL = "0.2.6-0.2"
 
 ["0.2.19-0"]
 FilterGraphAlgorithms = "0.8.2-0.8"
 FilterGraphPipeWire = "0.1.10-0.1"
+
+["0.2.23-0"]
+AdaptiveOpticsSimPipeWireHIL = "0.2.7-0.2"
