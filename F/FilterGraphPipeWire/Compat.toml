@@ -7,7 +7,12 @@ FilterGraphAlgorithms = "0.7"
 JuliaFilterGraph = "0.4"
 PipeWireAO = "0.6.18-0.6"
 
+["0.1.11-0"]
+FilterGraphAlgorithms = "0.8.5-0.8"
+
 ["0.1.7-0"]
-FilterGraphAlgorithms = "0.8"
 JuliaFilterGraph = "0.4.2-0.4"
 PipeWireAO = "0.6.19-0.6"
+
+["0.1.7-0.1.10"]
+FilterGraphAlgorithms = "0.8"
