@@ -16,12 +16,18 @@ FilterGraphAlgorithms = "0.8.6-0.8"
 ["0.1.12-0"]
 LinearAlgebra = "1.13.0-1"
 
-["0.1.13-0"]
+["0.1.13"]
 FilterGraphAlgorithms = "0.8.7-0.8"
 
+["0.1.14-0"]
+FilterGraphAlgorithms = "0.8.8-0.8"
+JuliaFilterGraph = "0.4.3-0.4"
+
 ["0.1.7-0"]
-JuliaFilterGraph = "0.4.2-0.4"
 PipeWireAO = "0.6.19-0.6"
 
 ["0.1.7-0.1.10"]
 FilterGraphAlgorithms = "0.8"
+
+["0.1.7-0.1.13"]
+JuliaFilterGraph = "0.4.2-0.4"
