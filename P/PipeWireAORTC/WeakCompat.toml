@@ -70,7 +70,12 @@ AdaptiveOpticsSim = "0.3.7-0.3"
 AdaptiveOpticsSimPipeWireHIL = "0.2.9-0.2"
 
 ["0.2.34-0"]
-AdaptiveOpticsSim = "0.3.10-0.3"
 AdaptiveOpticsSimPipeWireHIL = "0.2.10-0.2"
 FilterGraphAlgorithms = "0.8.11-0.8"
 FilterGraphPipeWire = "0.1.15-0.1"
+
+["0.2.34-0.2.36"]
+AdaptiveOpticsSim = "0.3.10-0.3"
+
+["0.2.37-0"]
+AdaptiveOpticsSim = "0.3.11-0.3"
