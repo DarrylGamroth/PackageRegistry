@@ -10,7 +10,6 @@ JuliaFilterGraph = "0.4"
 
 ["0.2-0"]
 AMDGPU = "2.7.0-2"
-JuliaFilterGraph = "0.4.2-0.4"
 
 ["0.2-0.2.10"]
 AdaptiveOpticsSim = "0.2.3-0.3"
@@ -25,6 +24,9 @@ FilterGraphIsland = "0.1.3-0.1"
 
 ["0.2-0.2.30"]
 AdaptiveOpticsCalibration = "0.17"
+
+["0.2-0.2.37"]
+JuliaFilterGraph = "0.4.2-0.4"
 
 ["0.2.11-0.2.31"]
 AdaptiveOpticsSim = "0.3.2-0.3"
@@ -69,13 +71,20 @@ AdaptiveOpticsCalibration = "0.17.3-0.17"
 AdaptiveOpticsSim = "0.3.7-0.3"
 AdaptiveOpticsSimPipeWireHIL = "0.2.9-0.2"
 
-["0.2.34-0"]
+["0.2.34-0.2.36"]
+AdaptiveOpticsSim = "0.3.10-0.3"
+
+["0.2.34-0.2.37"]
 AdaptiveOpticsSimPipeWireHIL = "0.2.10-0.2"
 FilterGraphAlgorithms = "0.8.11-0.8"
 FilterGraphPipeWire = "0.1.15-0.1"
 
-["0.2.34-0.2.36"]
-AdaptiveOpticsSim = "0.3.10-0.3"
-
-["0.2.37-0"]
+["0.2.37"]
 AdaptiveOpticsSim = "0.3.11-0.3"
+
+["0.2.38-0"]
+AdaptiveOpticsSim = "0.3.12-0.3"
+AdaptiveOpticsSimPipeWireHIL = "0.2.11-0.2"
+FilterGraphAlgorithms = "0.8.13-0.8"
+FilterGraphPipeWire = "0.1.16-0.1"
+JuliaFilterGraph = "0.4.3-0.4"
