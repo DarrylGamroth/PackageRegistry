@@ -26,5 +26,9 @@ FilterGraphAlgorithms = "0.7"
 ["0.4.2-0.4.3"]
 FilterGraphAlgorithms = "0.8"
 
-["0.4.4-0"]
+["0.4.4"]
 FilterGraphAlgorithms = "0.8.12-0.8"
+
+["0.4.5-0"]
+FilterGraphAlgorithms = "0.8.15-0.8"
+UUIDs = "1"
