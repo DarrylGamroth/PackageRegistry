@@ -40,11 +40,11 @@ FilterGraphPipeWire = "0.1.9-0.1"
 ["0.2.18"]
 FilterGraphAlgorithms = "0.8.1-0.8"
 
-["0.2.18-0"]
-FilterGraphIsland = "0.1.4-0.1"
-
 ["0.2.18-0.2.22"]
 AdaptiveOpticsSimPipeWireHIL = "0.2.6-0.2"
+
+["0.2.18-0.2.52"]
+FilterGraphIsland = "0.1.4-0.1"
 
 ["0.2.19-0.2.28"]
 FilterGraphAlgorithms = "0.8.2-0.8"
@@ -85,9 +85,6 @@ AdaptiveOpticsSim = "0.3.11-0.3"
 ["0.2.38"]
 AdaptiveOpticsSim = "0.3.12-0.3"
 
-["0.2.38-0"]
-JuliaFilterGraph = "0.4.3-0.4"
-
 ["0.2.38-0.2.40"]
 FilterGraphAlgorithms = "0.8.13-0.8"
 
@@ -95,16 +92,27 @@ FilterGraphAlgorithms = "0.8.13-0.8"
 AdaptiveOpticsSimPipeWireHIL = "0.2.11-0.2"
 FilterGraphPipeWire = "0.1.16-0.1"
 
+["0.2.38-0.2.52"]
+JuliaFilterGraph = "0.4.3-0.4"
+
 ["0.2.39-0.2.49"]
 AdaptiveOpticsSim = "0.3.13-0.3"
 
-["0.2.41-0"]
+["0.2.41-0.2.52"]
 FilterGraphAlgorithms = "0.8.14-0.8"
 
 ["0.2.50-0.2.51"]
 AdaptiveOpticsSim = "0.3.16-0.3"
 
+["0.2.52"]
+FilterGraphPipeWire = "0.1.19-0.1"
+
 ["0.2.52-0"]
 AdaptiveOpticsSim = "0.3.17-0.3"
 AdaptiveOpticsSimPipeWireHIL = "0.2.12-0.2"
-FilterGraphPipeWire = "0.1.19-0.1"
+
+["0.2.53-0"]
+FilterGraphAlgorithms = "0.8.15-0.8"
+FilterGraphIsland = "0.1.5-0.1"
+FilterGraphPipeWire = "0.1.20-0.1"
+JuliaFilterGraph = "0.4.5-0.4"
