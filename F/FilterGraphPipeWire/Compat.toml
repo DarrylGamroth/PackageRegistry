@@ -31,8 +31,11 @@ FilterGraphAlgorithms = "0.8.11-0.8"
 ["0.1.16-0"]
 FilterGraphAlgorithms = "0.8.13-0.8"
 
-["0.1.18-0"]
+["0.1.18"]
 PipeWireAO = "0.6.20-0.6"
+
+["0.1.19-0"]
+PipeWireAO = "0.6.21-0.6"
 
 ["0.1.7-0.1.10"]
 FilterGraphAlgorithms = "0.8"
