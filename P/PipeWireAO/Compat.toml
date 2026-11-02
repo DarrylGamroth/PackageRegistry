@@ -19,5 +19,8 @@ PipeWireAO_jll = "1.7.2-1"
 ["0.6.21-0.6"]
 PipeWireAO_jll = "1.7.3-1"
 
-["0.7-0"]
+["0.7"]
 PipeWireAO_jll = "2"
+
+["0.8-0"]
+PipeWireAO_jll = "3"
