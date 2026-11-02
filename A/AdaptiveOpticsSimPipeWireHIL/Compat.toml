@@ -14,8 +14,11 @@ AdaptiveOpticsSim = "0.2"
 ["0.2.1-0.2.11"]
 PipeWireAO = "0.6.18-0.6"
 
-["0.2.12-0"]
+["0.2.12-0.2"]
 PipeWireAO = "0.6.21-0.6"
 
 ["0.2.3-0"]
 AdaptiveOpticsSim = "0.2-0.3"
+
+["0.3-0"]
+PipeWireAO = "0.7"
