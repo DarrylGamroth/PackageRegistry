@@ -30,5 +30,10 @@ FilterGraphAlgorithms = "0.8"
 FilterGraphAlgorithms = "0.8.12-0.8"
 
 ["0.4.5-0"]
-FilterGraphAlgorithms = "0.8.15-0.8"
 UUIDs = "1"
+
+["0.4.5-0.4"]
+FilterGraphAlgorithms = "0.8.15-0.8"
+
+["0.5-0"]
+FilterGraphAlgorithms = "0.9"
