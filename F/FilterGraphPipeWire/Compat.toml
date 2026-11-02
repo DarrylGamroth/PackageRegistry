@@ -56,7 +56,12 @@ JuliaFilterGraph = "0.5"
 PipeWireAO = "0.7"
 
 ["0.3-0"]
-FilterGraphAlgorithms = "0.10"
 JuliaFilterGraph = "0.6"
 PipeWireAO = "0.8"
 UUIDs = "1"
+
+["0.3.0"]
+FilterGraphAlgorithms = "0.10"
+
+["0.3.1-0"]
+FilterGraphAlgorithms = "0.10.1-0.10"
