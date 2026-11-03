@@ -38,5 +38,8 @@ FilterGraphAlgorithms = "0.8.15-0.8"
 ["0.5"]
 FilterGraphAlgorithms = "0.9"
 
-["0.6-0"]
+["0.6"]
 FilterGraphAlgorithms = "0.10"
+
+["0.7-0"]
+FilterGraphAlgorithms = "0.11"
