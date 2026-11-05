@@ -5,6 +5,11 @@ CUDA = "6"
 ["0-0.5"]
 KernelAbstractions = "0.9"
 
+["0.12-0"]
+KernelAbstractions = "0.10"
+
 ["0.7-0"]
 DSP = "0.8"
+
+["0.7-0.11"]
 KernelAbstractions = "0.9-0.10"
