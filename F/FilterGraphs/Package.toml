@@ -1,0 +1,4 @@
+name = "FilterGraphs"
+uuid = "8053475d-7091-4a8a-adbc-8ed688b6da8d"
+repo = "git@github.com:DarrylGamroth/JuliaFilterGraph.jl.git"
+subdir = "julia/FilterGraphs"
