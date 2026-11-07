@@ -20,5 +20,8 @@ TOML = "1"
 AdaptiveOpticsCalibration = "0.17.1-0.17"
 KernelAbstractions = "0.9.42-0.10"
 
+["0.3.21-0"]
+Interpolations = "0.16"
+
 ["0.3.4-0"]
 SHA = ["0.7", "1"]
