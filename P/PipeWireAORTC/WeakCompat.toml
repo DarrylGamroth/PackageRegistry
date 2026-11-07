@@ -161,8 +161,13 @@ FilterGraphPipeWire = "0.5"
 
 ["0.6-0"]
 FilterGraphAlgorithms = "0.12"
+
+["0.6-0.7.0"]
 FilterGraphs = "0.9"
 
 ["0.7-0"]
 AdaptiveOpticsSim = "0.3.21-0.3"
 FilterGraphPipeWire = "0.5.2-0.5"
+
+["0.7.1-0"]
+FilterGraphs = "0.10"
