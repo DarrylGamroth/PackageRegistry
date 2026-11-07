@@ -13,11 +13,17 @@ StructTypes = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"
 
 ["0.2-0"]
 DBInterface = "a10d1c49-ce27-4219-8d33-6db1a4562965"
-Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
+["0.2-0.6"]
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+
 ["0.2.12-0"]
 Hsm = "ae4ab49b-60bf-4949-b8fd-fb49b1a0d067"
+
+["0.7-0"]
+Agent = "f7939a7f-2bcc-4096-952b-c44031b5533b"
+Clocks = "6b5ade5d-6e95-4584-b343-73eec2e8782b"
