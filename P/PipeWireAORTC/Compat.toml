@@ -53,3 +53,6 @@ Agent = "0.4.1-0.4"
 Clocks = "0.4"
 PipeWireAO = "0.9.2-0.9"
 julia = "1.13.0-1"
+
+["0.7.3-0"]
+PipeWireAOQueue_jll = "0.1"
