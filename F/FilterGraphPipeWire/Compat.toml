@@ -73,11 +73,11 @@ PipeWireAO = "0.9"
 FilterGraphAlgorithms = "0.11"
 JuliaFilterGraph = "0.7"
 
-["0.4.1-0"]
-FilterGraphAlgorithms = "0.12"
-
 ["0.4.1-0.4"]
 JuliaFilterGraph = "0.8"
+
+["0.4.1-0.5.2"]
+FilterGraphAlgorithms = "0.12"
 
 ["0.5-0"]
 Libdl = "1"
@@ -88,8 +88,12 @@ PipeWireAO = "0.9.1-0.9"
 ["0.5.0"]
 FilterGraphs = "0.9"
 
-["0.5.1-0"]
+["0.5.1-0.5.2"]
 FilterGraphs = "0.9-0.10"
 
 ["0.5.2-0"]
 PipeWireAO = "0.9.2-0.9"
+
+["0.5.3-0"]
+FilterGraphAlgorithms = "0.12.2-0.12"
+FilterGraphs = "0.10.2-0.10"
