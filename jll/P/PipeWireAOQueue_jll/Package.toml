@@ -1,0 +1,4 @@
+name = "PipeWireAOQueue_jll"
+uuid = "30c7d52a-5243-5e1f-b778-22f49ec5fee3"
+repo = "https://github.com/DarrylGamroth/pipewireao-spa-plugins-core.git"
+subdir = "julia/PipeWireAOQueue_jll"
