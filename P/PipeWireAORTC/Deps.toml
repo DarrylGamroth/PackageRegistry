@@ -28,5 +28,8 @@ Hsm = "ae4ab49b-60bf-4949-b8fd-fb49b1a0d067"
 Agent = "f7939a7f-2bcc-4096-952b-c44031b5533b"
 Clocks = "6b5ade5d-6e95-4584-b343-73eec2e8782b"
 
+["0.7.14-0"]
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+
 ["0.7.3-0"]
 PipeWireAOQueue_jll = "30c7d52a-5243-5e1f-b778-22f49ec5fee3"
