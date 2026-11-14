@@ -1,3 +1,6 @@
 ["0.5.1-0"]
 PipeWireAORTC = "0.7.2-0.7"
 ThreadPinning = "1"
+
+["0.5.7-0"]
+CUDA = "6"
