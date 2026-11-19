@@ -39,6 +39,9 @@ FITSIO = "0.17"
 SHA = ["0.7", "1"]
 YAML = "0.4.17-0.4"
 
+["0.5.1-0.5.7"]
+PipeWireAO = "0.9.2-0.9"
+
 ["0.5.2-0.5.4"]
 AdaptiveOpticsSim = "0.3.23-0.3"
 
@@ -54,6 +57,3 @@ PipeWireAO_jll = "4.0.0-4.0.2"
 ["0.5.8-0"]
 PipeWireAO = "0.9.3-0.9"
 PipeWireAO_jll = "4.0.3-4"
-
-["0.5.1-0.5.7"]
-PipeWireAO = "0.9.2-0.9"
