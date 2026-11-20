@@ -101,8 +101,11 @@ FilterGraphs = "0.10.2-0.10"
 ["0.5.6"]
 FilterGraphs = "0.10.3-0.10"
 
-["0.5.6-0"]
+["0.5.6-0.5.9"]
 FilterGraphAlgorithms = "0.12.4-0.12"
+
+["0.5.10-0"]
+FilterGraphAlgorithms = "0.12.12-0.12"
 
 ["0.5.7-0"]
 FilterGraphs = "0.10.4-0.10"
