@@ -9,5 +9,8 @@ FITSIO = "525bcba6-941b-5504-bd06-fd0dc1a4d2eb"
 SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
+["0.5.11-0"]
+Agent = "f7939a7f-2bcc-4096-952b-c44031b5533b"
+
 ["0.5.6-0"]
 PipeWireAO_jll = "cde84cf6-9a21-5ce0-b5e3-1526e778c30b"
