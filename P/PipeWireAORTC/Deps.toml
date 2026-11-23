@@ -33,3 +33,6 @@ PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
 
 ["0.7.3-0"]
 PipeWireAOQueue_jll = "30c7d52a-5243-5e1f-b778-22f49ec5fee3"
+
+["0.7.30-0"]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"

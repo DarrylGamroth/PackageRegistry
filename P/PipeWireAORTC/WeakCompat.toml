@@ -182,7 +182,6 @@ AdaptiveOpticsSimPipeWireHIL = "0.5.1-0.5"
 AdaptiveOpticsSim = "0.3.25-0.3"
 AdaptiveOpticsSimPipeWireHIL = "0.5.8-0.5"
 CUDA = "6.5.1-6"
-FilterGraphAlgorithms = "0.12.5-0.12"
 FilterGraphs = "0.10.3-0.10"
 
 ["0.7.20-0.7.23"]
@@ -191,8 +190,14 @@ AMDGPU = "2.11-2"
 ["0.7.20-0.7.28"]
 FilterGraphPipeWire = "0.5.6-0.5"
 
+["0.7.20-0.7.29"]
+FilterGraphAlgorithms = "0.12.5-0.12"
+
 ["0.7.24-0"]
 AMDGPU = "2.11.0-2"
 
 ["0.7.29-0"]
 FilterGraphPipeWire = "0.5.11-0.5"
+
+["0.7.30-0"]
+FilterGraphAlgorithms = "0.12.5-0.13"
