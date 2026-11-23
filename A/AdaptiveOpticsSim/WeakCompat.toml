@@ -19,14 +19,19 @@ YAML = "0.4.17-0.4"
 FITSIO = "0.17"
 
 ["0.3.24-0"]
-FilterGraphAlgorithms = "0.12.2-0.12"
 FilterGraphs = "0.10.2-0.10"
 
 ["0.3.24-0.3.26"]
 Proper = "0.4.2-0.4"
 
+["0.3.24-0.3.29"]
+FilterGraphAlgorithms = "0.12.2-0.12"
+
 ["0.3.27-0"]
 Proper = "0.4.3-0.4"
+
+["0.3.30-0"]
+FilterGraphAlgorithms = "0.12.2-0.13"
 
 ["0.3.4-0.3.7"]
 Proper = "0.4"
