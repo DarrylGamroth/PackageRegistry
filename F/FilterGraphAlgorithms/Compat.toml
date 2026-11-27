@@ -9,6 +9,9 @@ AdaptiveOpticsCalibration = "0.8"
 ["0.13.3-0"]
 SIMD = "3.8.0-3"
 
+["0.13.5-0"]
+AdaptiveOpticsCalibration = "0.17.7-0.17"
+
 ["0.5.1"]
 AdaptiveOpticsCalibration = ["0.8", "0.12"]
 
@@ -21,7 +24,7 @@ AdaptiveOpticsCalibration = ["0.8", "0.12", "0.14-0.15"]
 ["0.5.4"]
 AdaptiveOpticsCalibration = ["0.8", "0.12", "0.14-0.16"]
 
-["0.5.5-0"]
+["0.5.5-0.13.4"]
 AdaptiveOpticsCalibration = ["0.8", "0.12", "0.14-0.17"]
 
 ["0.7-0"]
