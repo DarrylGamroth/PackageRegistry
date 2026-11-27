@@ -10,7 +10,6 @@ description = "Darryl Gamroth's Julia Package Repository"
 0974bddb-ffe7-4d59-96d4-d2a78da66510 = { name = "Dithering", path = "D/Dithering" }
 0b0e1d30-6475-4286-a107-4b7aba88ddd2 = { name = "SymbolConverters", path = "S/SymbolConverters" }
 0c6a28b8-15c3-477b-95f5-c0ec932e9c4f = { name = "PipeWire", path = "P/PipeWire" }
-1e096dfd-8d59-466f-967d-e58cf577fca9 = { name = "REVOLTCopperSim", path = "R/REVOLTCopperSim" }
 1e3e096f-6c67-414b-b19e-57dba9f71c96 = { name = "BGAPI2", path = "B/BGAPI2" }
 245ec3f5-bd83-45fe-abab-efac21027a22 = { name = "FilterGraphIsland", path = "F/FilterGraphIsland" }
 30c7d52a-5243-5e1f-b778-22f49ec5fee3 = { name = "PipeWireAOQueue_jll", path = "jll/P/PipeWireAOQueue_jll" }
