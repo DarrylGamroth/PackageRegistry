@@ -39,6 +39,7 @@ c8c55f4a-6010-44cd-a616-9e5fc16aded6 = { name = "ASDK", path = "A/ASDK" }
 cde84cf6-9a21-5ce0-b5e3-1526e778c30b = { name = "PipeWireAO_jll", path = "jll/P/PipeWireAO_jll" }
 d0b8ac25-3072-4075-acf5-4a93ba78f71f = { name = "HdrHistogram", path = "H/HdrHistogram" }
 d49d6a9a-8fe4-5035-9ec1-b8a5ddb3e747 = { name = "PipeWire_jll", path = "jll/P/PipeWire_jll" }
+e41556b4-2a52-4a1a-932a-29b58442eb61 = { name = "SPECULAPipeWireHIL", path = "S/SPECULAPipeWireHIL" }
 e50cd564-cd50-4a17-94cb-358ff85669a4 = { name = "SpidersSendEvent", path = "S/SpidersSendEvent" }
 ec67c574-ed8c-4e45-bdab-86d4779d2d90 = { name = "AgronaCounters", path = "A/AgronaCounters" }
 ee304b73-0f67-4038-8e67-62078cd066f9 = { name = "Aravis", path = "A/Aravis" }
