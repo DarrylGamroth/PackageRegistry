@@ -1,0 +1,3 @@
+name = "SPECULAPipeWireHIL"
+uuid = "e41556b4-2a52-4a1a-932a-29b58442eb61"
+repo = "https://github.com/DarrylGamroth/SPECULAPipeWireHIL.jl.git"
